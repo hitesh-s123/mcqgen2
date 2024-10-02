@@ -7,7 +7,5 @@ streamlit
 python-dotenv
 PyPDF2
 langchain_community
-torch
-
 
 -e .

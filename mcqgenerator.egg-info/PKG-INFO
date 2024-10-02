@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: hitesh
+Author-email: jnvpghitesh@gmail.com
+Requires-Dist: transformers
+Requires-Dist: accelerate
+Requires-Dist: tensorflow
+Requires-Dist: tokenizers
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain_community
