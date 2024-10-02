@@ -1,0 +1,11 @@
+transformers
+accelerate
+tensorflow
+tokenizers
+langchain
+streamlit
+python-dotenv
+PyPDF2
+langchain_community
+
+-e .
