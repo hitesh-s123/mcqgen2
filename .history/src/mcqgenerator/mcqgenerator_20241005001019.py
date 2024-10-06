@@ -21,7 +21,7 @@ load_dotenv()
 # access the environment variable
 key= os.getenv("Hugging_Face_API_key")
 
-login(key)  # Replace with your API token
+login("key")  # Replace with your API token
 
 # Step 1: Load the Hugging Face model (e.g., LLaMA)
 model_id = "meta-llama/Llama-3.2-1B"  # Replace with your LLaMA model ID

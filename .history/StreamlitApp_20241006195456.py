@@ -1,5 +1,3 @@
-import sys
-print(sys.executable)
 import os
 import json
 import pandas as pd
@@ -11,6 +9,3 @@ import streamlit as st
 from src.mcqgenerator.MCQgenerator import generate_evaluate_chain
 from src.mcqgenerator.logger import logging
 
-# load json file
-with open('C:\Users\jnvpg\mcqgen2\response.json','r') as file:
-    RESPONSE_JSON = json.load(file)
